@@ -1,0 +1,161 @@
+Type	No	Word	Pron	Meaning	FileAudio
+Vowels	1	ㅏ	a	Mở miệng phát âm rõ chữ a.	https://luandai123.github.io/Korean_Pronunciation/ㅏ.mp3
+Vowels	1.1	아이	ai	Em bé	https://luandai123.github.io/Korean_Pronunciation/아이.mp3
+Vowels	1.2	나라	nara	Đất nước	https://luandai123.github.io/Korean_Pronunciation/나라.mp3
+Vowels	1.3	나무	namu	Cây	https://luandai123.github.io/Korean_Pronunciation/나무.mp3
+Vowels	2	ㅓ	o	Tròn miệng, đọc o.	https://luandai123.github.io/Korean_Pronunciation/ㅓ.mp3
+Vowels	2.1	어머니	eomeoni	Mẹ	https://luandai123.github.io/Korean_Pronunciation/어머니.mp3
+Vowels	2.2	어디	eodi	Ở đâu	https://luandai123.github.io/Korean_Pronunciation/어디.mp3
+Vowels	2.3	버스	beoseu	Xe buýt	https://luandai123.github.io/Korean_Pronunciation/버스.mp3
+Vowels	3	ㅗ	ô	Tròn miệng, hạ giọng xuống, đọc ô.	https://luandai123.github.io/Korean_Pronunciation/ㅗ.mp3
+Vowels	3.1	오이	oi	Dưa chuột	https://luandai123.github.io/Korean_Pronunciation/오이.mp3
+Vowels	3.2	고기	gogi	Thịt	https://luandai123.github.io/Korean_Pronunciation/고기.mp3
+Vowels	3.3	오늘	oneul	Hôm nay	https://luandai123.github.io/Korean_Pronunciation/오늘.mp3
+Vowels	4	ㅜ	u	Tròn môi, đưa môi ra trước, đọc u.	https://luandai123.github.io/Korean_Pronunciation/ㅜ.mp3
+Vowels	4.1	우유	uyu	Sữa	https://luandai123.github.io/Korean_Pronunciation/우유.mp3
+Vowels	4.2	우리	uri	Chúng ta	https://luandai123.github.io/Korean_Pronunciation/우리.mp3
+Vowels	4.3	우산	usan	Cái ô (dù)	https://luandai123.github.io/Korean_Pronunciation/우산.mp3
+Vowels	5	ㅡ	ư	Mở miệng ngang phát âm ư.	https://luandai123.github.io/Korean_Pronunciation/ㅡ.mp3
+Vowels	5.1	음식	eumsik	Thức ăn	https://luandai123.github.io/Korean_Pronunciation/음식.mp3
+Vowels	5.2	은행	eunhaeng	Ngân hàng	https://luandai123.github.io/Korean_Pronunciation/은행.mp3
+Vowels	5.3	이름	ireum	Tên	https://luandai123.github.io/Korean_Pronunciation/이름.mp3
+Vowels	6	ㅣ	i	Mở miệng ngang phát âm i.	https://luandai123.github.io/Korean_Pronunciation/ㅣ.mp3
+Vowels	6.1	이	i	Số hai / Cái răng	https://luandai123.github.io/Korean_Pronunciation/이.mp3
+Vowels	6.2	아이스크림	aiseukeurim	Kem	https://luandai123.github.io/Korean_Pronunciation/아이스크림.mp3
+Vowels	6.3	지도	jido	Bản đồ	https://luandai123.github.io/Korean_Pronunciation/지도.mp3
+Vowels	7	ㅐ	ê	Phát âm là ê.	https://luandai123.github.io/Korean_Pronunciation/ㅐ.mp3
+Vowels	7.1	새	sae	Con chim	https://luandai123.github.io/Korean_Pronunciation/새.mp3
+Vowels	7.2	배	bae	Quả lê / Chiếc thuyền / Cái bụng	https://luandai123.github.io/Korean_Pronunciation/배.mp3
+Vowels	7.3	노래	norae	Bài hát	https://luandai123.github.io/Korean_Pronunciation/노래.mp3
+Vowels	8	ㅔ	ê	Phát âm là ê.	https://luandai123.github.io/Korean_Pronunciation/ㅔ.mp3
+Vowels	8.1	가게	gage	Cửa hàng	https://luandai123.github.io/Korean_Pronunciation/가게.mp3
+Vowels	8.2	베개	begae	Cái gối	https://luandai123.github.io/Korean_Pronunciation/베개.mp3
+Vowels	8.3	제	je	Của tôi	https://luandai123.github.io/Korean_Pronunciation/제.mp3
+Vowels	9	ㅑ	ya	Kết hợp y + a.	https://luandai123.github.io/Korean_Pronunciation/ㅑ.mp3
+Vowels	9.1	야구	yagu	Bóng chày	https://luandai123.github.io/Korean_Pronunciation/야구.mp3
+Vowels	9.2	야채	yachae	Rau củ	https://luandai123.github.io/Korean_Pronunciation/야채.mp3
+Vowels	9.3	약	yak	Thuốc	https://luandai123.github.io/Korean_Pronunciation/약.mp3
+Vowels	10	ㅕ	yo	Kết hợp y + o.	https://luandai123.github.io/Korean_Pronunciation/ㅕ.mp3
+Vowels	10.1	여우	yeou	Con cáo	https://luandai123.github.io/Korean_Pronunciation/여우.mp3
+Vowels	10.2	여동생	yeodongsaeng	Em gái	https://luandai123.github.io/Korean_Pronunciation/여동생.mp3
+Vowels	10.3	여행	yeohaeng	Du lịch	https://luandai123.github.io/Korean_Pronunciation/여행.mp3
+Vowels	11	ㅛ	yô	Kết hợp y + ô.	https://luandai123.github.io/Korean_Pronunciation/ㅛ.mp3
+Vowels	11.1	요리	yori	Nấu ăn	https://luandai123.github.io/Korean_Pronunciation/요리.mp3
+Vowels	11.2	교실	gyosil	Lớp học	https://luandai123.github.io/Korean_Pronunciation/교실.mp3
+Vowels	11.3	요즘	yojeum	Dạo này	https://luandai123.github.io/Korean_Pronunciation/요즘.mp3
+Vowels	12	ㅠ	yu	Kết hợp y + u.	https://luandai123.github.io/Korean_Pronunciation/ㅠ.mp3
+Vowels	12.1	유리	yuri	Thủy tinh / Kính	https://luandai123.github.io/Korean_Pronunciation/유리.mp3
+Vowels	12.2	휴지	hyuji	Giấy ăn / Giấy vệ sinh	https://luandai123.github.io/Korean_Pronunciation/휴지.mp3
+Vowels	12.3	이유	iyu	Lý do	https://luandai123.github.io/Korean_Pronunciation/이유.mp3
+Vowels	13	ㅒ	yê	Kết hợp y + ê.	https://luandai123.github.io/Korean_Pronunciation/ㅒ.mp3
+Vowels	13.1	얘기	yaegi	Câu chuyện / Nói chuyện	https://luandai123.github.io/Korean_Pronunciation/얘기.mp3
+Vowels	13.2	얘	yae	Đứa trẻ này	https://luandai123.github.io/Korean_Pronunciation/얘.mp3
+Vowels	13.3	얘네	yaene	Bọn nó / Mấy đứa này	https://luandai123.github.io/Korean_Pronunciation/얘네.mp3
+Vowels	14	ㅖ	yê	Kết hợp y + ê.	https://luandai123.github.io/Korean_Pronunciation/ㅖ.mp3
+Vowels	14.1	예	ye	Vâng / Dạ	https://luandai123.github.io/Korean_Pronunciation/예.mp3
+Vowels	14.2	시계	sigye	Đồng hồ	https://luandai123.github.io/Korean_Pronunciation/시계.mp3
+Vowels	14.3	예술	yesul	Nghệ thuật	https://luandai123.github.io/Korean_Pronunciation/예술.mp3
+Vowels	15	ㅘ	oa	Kết hợp ô + a.	https://luandai123.github.io/Korean_Pronunciation/ㅘ.mp3
+Vowels	15.1	과자	gwaja	Bánh kẹo	https://luandai123.github.io/Korean_Pronunciation/과자.mp3
+Vowels	15.2	화가	hwaga	Họa sĩ	https://luandai123.github.io/Korean_Pronunciation/화가.mp3
+Vowels	15.3	사과	sagwa	Quả táo	https://luandai123.github.io/Korean_Pronunciation/사과.mp3
+Vowels	16	ㅝ	uo	Kết hợp u + o.	https://luandai123.github.io/Korean_Pronunciation/ㅝ.mp3
+Vowels	16.1	원	won	Đồng Won (tiền tệ)	https://luandai123.github.io/Korean_Pronunciation/원.mp3
+Vowels	16.2	병원	byeongwon	Bệnh viện	https://luandai123.github.io/Korean_Pronunciation/병원.mp3
+Vowels	16.3	공원	gongwon	Công viên	https://luandai123.github.io/Korean_Pronunciation/공원.mp3
+Vowels	17	ㅙ	uê	Kết hợp ô + ê, phát âm là uê.	https://luandai123.github.io/Korean_Pronunciation/ㅙ.mp3
+Vowels	17.1	왜	wae	Tại sao	https://luandai123.github.io/Korean_Pronunciation/왜.mp3
+Vowels	17.2	돼지	dwaeji	Con lợn	https://luandai123.github.io/Korean_Pronunciation/돼지.mp3
+Vowels	17.3	괜찮다	gwaenchanta	Không sao / Ổn	https://luandai123.github.io/Korean_Pronunciation/괜찮다.mp3
+Vowels	18	ㅞ	uê	Kết hợp u + ê, phát âm là uê.	https://luandai123.github.io/Korean_Pronunciation/ㅞ.mp3
+Vowels	18.1	웹사이트	wepsaito	Trang web	https://luandai123.github.io/Korean_Pronunciation/웹사이트.mp3
+Vowels	18.2	스웨터	seuweteo	Áo len	https://luandai123.github.io/Korean_Pronunciation/스웨터.mp3
+Vowels	18.3	웨딩	weding	Đám cưới	https://luandai123.github.io/Korean_Pronunciation/웨딩.mp3
+Vowels	19	ㅚ	uê	Kết hợp u + i, phát âm là uê.	https://luandai123.github.io/Korean_Pronunciation/ㅚ.mp3
+Vowels	19.1	회사	hoesa	Công ty	https://luandai123.github.io/Korean_Pronunciation/회사.mp3
+Vowels	19.2	외국	oeguk	Nước ngoài	https://luandai123.github.io/Korean_Pronunciation/외국.mp3
+Vowels	19.3	열쇠	yeolsoe	Chìa khóa	https://luandai123.github.io/Korean_Pronunciation/열쇠.mp3
+Vowels	20	ㅟ	wi	Kết hợp ô + i, phát âm là wi.	https://luandai123.github.io/Korean_Pronunciation/ㅟ.mp3
+Vowels	20.1	위	wi	Phía trên / Dạ dày	https://luandai123.github.io/Korean_Pronunciation/위.mp3
+Vowels	20.2	귀	gwi	Cái tai	https://luandai123.github.io/Korean_Pronunciation/귀.mp3
+Vowels	20.3	쉬다	swida	Nghỉ ngơi	https://luandai123.github.io/Korean_Pronunciation/쉬다.mp3
+Vowels	21	ㅢ	ưi	Kết hợp ư + I, phát âm ưi	https://luandai123.github.io/Korean_Pronunciation/ㅢ.mp3
+Vowels	21.1	의사	uisa	Bác sĩ	https://luandai123.github.io/Korean_Pronunciation/의사.mp3
+Vowels	21.2	의자	uija	Cái ghế	https://luandai123.github.io/Korean_Pronunciation/의자.mp3
+Vowels	21.3	회의	hoeui	Cuộc họp	https://luandai123.github.io/Korean_Pronunciation/회의.mp3
+Consonants	1	ㄱ	g/k	Phát âm nhẹ nằm giữa g và k	https://luandai123.github.io/Korean_Pronunciation/ㄱ.mp3
+Consonants	1.1	가구	gagu	Đồ nội thất	https://luandai123.github.io/Korean_Pronunciation/가구.mp3
+Consonants	1.2	고기	gogi	Thịt	https://luandai123.github.io/Korean_Pronunciation/고기.mp3
+Consonants	1.3	가방	gabang	Cái túi / Cặp sách	https://luandai123.github.io/Korean_Pronunciation/가방.mp3
+Consonants	2	ㄴ	n	Phát âm giống chữ n trong tiếng Việt	https://luandai123.github.io/Korean_Pronunciation/ㄴ.mp3
+Consonants	2.1	나라	nara	Đất nước	https://luandai123.github.io/Korean_Pronunciation/나라.mp3
+Consonants	2.2	나무	namu	Cây	https://luandai123.github.io/Korean_Pronunciation/나무.mp3
+Consonants	2.3	나비	nabi	Con bướm	https://luandai123.github.io/Korean_Pronunciation/나비.mp3
+Consonants	3	ㄷ	t/d	Phát âm nhẹ nằm giữa d và t	https://luandai123.github.io/Korean_Pronunciation/ㄷ.mp3
+Consonants	3.1	구두	gudu	Giày da	https://luandai123.github.io/Korean_Pronunciation/구두.mp3
+Consonants	3.2	다리	dari	Chân / Cây cầu	https://luandai123.github.io/Korean_Pronunciation/다리.mp3
+Consonants	3.3	당근	danggeun	Cà rốt	https://luandai123.github.io/Korean_Pronunciation/당근.mp3
+Consonants	4	ㄹ	r/l	Uốn lưỡi nhẹ, đứng đầu đọc là r/l, đứng cuối đọc là l	https://luandai123.github.io/Korean_Pronunciation/ㄹ.mp3
+Consonants	4.1	라디오	radio	Đài phát thanh	https://luandai123.github.io/Korean_Pronunciation/라디오.mp3
+Consonants	4.2	라면	ramyeon	Mì ăn liền	https://luandai123.github.io/Korean_Pronunciation/라면.mp3
+Consonants	4.3	노래	norae	Bài hát	https://luandai123.github.io/Korean_Pronunciation/노래.mp3
+Consonants	5	ㅁ	m	Phát âm tương tự chữ m trong tiếng Việt	https://luandai123.github.io/Korean_Pronunciation/ㅁ.mp3
+Consonants	5.1	모자	moja	Cái mũ	https://luandai123.github.io/Korean_Pronunciation/모자.mp3
+Consonants	5.2	문	mun	Cửa	https://luandai123.github.io/Korean_Pronunciation/문.mp3
+Consonants	5.3	물	mul	Nước	https://luandai123.github.io/Korean_Pronunciation/물.mp3
+Consonants	6	ㅂ	b/p	Phát âm nhẹ nằm giữa b và p	https://luandai123.github.io/Korean_Pronunciation/ㅂ.mp3
+Consonants	6.1	바지	baji	Cái quần	https://luandai123.github.io/Korean_Pronunciation/바지.mp3
+Consonants	6.2	비누	binu	Xà phòng	https://luandai123.github.io/Korean_Pronunciation/비누.mp3
+Consonants	6.3	바나나	banana	Quả chuối	https://luandai123.github.io/Korean_Pronunciation/바나나.mp3
+Consonants	7	ㅅ	s	Phát âm nhẹ như s	https://luandai123.github.io/Korean_Pronunciation/ㅅ.mp3
+Consonants	7.1	사과	sagwa	Quả táo	https://luandai123.github.io/Korean_Pronunciation/사과.mp3
+Consonants	7.2	사진	sajin	Bức ảnh	https://luandai123.github.io/Korean_Pronunciation/사진.mp3
+Consonants	7.3	사자	saja	Con sư tử	https://luandai123.github.io/Korean_Pronunciation/사자.mp3
+Consonants	8	ㅇ	ŋ	Đứng đầu âm tiết là âm câm, làm phụ âm cuối đọc là ng	https://luandai123.github.io/Korean_Pronunciation/ㅇ.mp3
+Consonants	8.1	아기	agi	Em bé	https://luandai123.github.io/Korean_Pronunciation/아기.mp3
+Consonants	8.2	우산	usan	Cái ô (dù)	https://luandai123.github.io/Korean_Pronunciation/우산.mp3
+Consonants	8.3	강	gang	Sông	https://luandai123.github.io/Korean_Pronunciation/강.mp3
+Consonants	9	ㅈ	tʃ/j	Phát âm nhẹ nằm giữa tʃ và j	https://luandai123.github.io/Korean_Pronunciation/ㅈ.mp3
+Consonants	9.1	지도	jido	Bản đồ	https://luandai123.github.io/Korean_Pronunciation/지도.mp3
+Consonants	9.2	자전거	jajeongeo	Xe đạp	https://luandai123.github.io/Korean_Pronunciation/자전거.mp3
+Consonants	9.3	주스	juseu	Nước hoa quả (Juice)	https://luandai123.github.io/Korean_Pronunciation/주스.mp3
+Consonants	10	ㅊ	tʃʰ	Phát âm âm ch bật hơi mạnh	https://luandai123.github.io/Korean_Pronunciation/ㅊ.mp3
+Consonants	10.1	차	cha	Trà / Xe ô tô	https://luandai123.github.io/Korean_Pronunciation/차.mp3
+Consonants	10.2	치마	chima	Cái váy	https://luandai123.github.io/Korean_Pronunciation/치마.mp3
+Consonants	10.3	채소	chaeso	Rau	https://luandai123.github.io/Korean_Pronunciation/채소.mp3
+Consonants	11	ㅋ	kʰ	Phát âm âm k bật hơi mạnh (giống kh)	https://luandai123.github.io/Korean_Pronunciation/ㅋ.mp3
+Consonants	11.1	코	ko	Cái mũi	https://luandai123.github.io/Korean_Pronunciation/코.mp3
+Consonants	11.2	카드	kadeu	Thẻ (Card)	https://luandai123.github.io/Korean_Pronunciation/카드.mp3
+Consonants	11.3	커피	keopi	Cà phê	https://luandai123.github.io/Korean_Pronunciation/커피.mp3
+Consonants	12	ㅌ	tʰ	Phát âm âm t bật hơi mạnh (giống th)	https://luandai123.github.io/Korean_Pronunciation/ㅌ.mp3
+Consonants	12.1	토끼	tokki	Con thỏ	https://luandai123.github.io/Korean_Pronunciation/토끼.mp3
+Consonants	12.2	토마토	tomato	Quả cà chua	https://luandai123.github.io/Korean_Pronunciation/토마토.mp3
+Consonants	12.3	타조	tajo	Đà điểu	https://luandai123.github.io/Korean_Pronunciation/타조.mp3
+Consonants	13	ㅍ	pʰ	Phát âm âm p bật hơi mạnh bằng hai môi (giống ph)	https://luandai123.github.io/Korean_Pronunciation/ㅍ.mp3
+Consonants	13.1	피아노	piano	Đàn piano	https://luandai123.github.io/Korean_Pronunciation/피아노.mp3
+Consonants	13.2	포도	podo	Quả nho	https://luandai123.github.io/Korean_Pronunciation/포도.mp3
+Consonants	13.3	피부	pibu	Da	https://luandai123.github.io/Korean_Pronunciation/피부.mp3
+Consonants	14	ㅎ	h	Phát âm tương tự chữ h trong tiếng Việt	https://luandai123.github.io/Korean_Pronunciation/ㅎ.mp3
+Consonants	14.1	하늘	haneul	Bầu trời	https://luandai123.github.io/Korean_Pronunciation/하늘.mp3
+Consonants	14.2	하루	haru	Một ngày	https://luandai123.github.io/Korean_Pronunciation/하루.mp3
+Consonants	14.3	호수	hosu	Hồ nước	https://luandai123.github.io/Korean_Pronunciation/호수.mp3
+Consonants	15	ㄲ	k͈	Phụ âm căng của ㄱ, phát âm k mạnh và không bật hơi (giống k)	https://luandai123.github.io/Korean_Pronunciation/ㄲ.mp3
+Consonants	15.1	꼬리	kkori	Cái đuôi	https://luandai123.github.io/Korean_Pronunciation/꼬리.mp3
+Consonants	15.2	꽃	kkot	Hoa	https://luandai123.github.io/Korean_Pronunciation/꽃.mp3
+Consonants	15.3	꼬꼬댁	kkokkodaek	Tiếng gà cục tác	https://luandai123.github.io/Korean_Pronunciation/꼬꼬댁.mp3
+Consonants	16	ㄸ	t͈	Phụ âm căng của ㄷ, phát âm t mạnh và không bật hơi (giống t)	https://luandai123.github.io/Korean_Pronunciation/ㄸ.mp3
+Consonants	16.1	딸기	ttalgi	Quả dâu tây	https://luandai123.github.io/Korean_Pronunciation/딸기.mp3
+Consonants	16.2	땅	ttang	Đất	https://luandai123.github.io/Korean_Pronunciation/땅.mp3
+Consonants	16.3	따뜻하다	ttatteuthada	Ấm áp	https://luandai123.github.io/Korean_Pronunciation/따뜻하다.mp3
+Consonants	17	ㅃ	p͈	Phụ âm căng của ㅂ, mím môi chặt phát âm p mạnh (giống p)	https://luandai123.github.io/Korean_Pronunciation/ㅃ.mp3
+Consonants	17.1	빵	ppang	Bánh mì	https://luandai123.github.io/Korean_Pronunciation/빵.mp3
+Consonants	17.2	아빠	appa	Bố	https://luandai123.github.io/Korean_Pronunciation/아빠.mp3
+Consonants	17.3	빠르다	ppareuda	Nhanh	https://luandai123.github.io/Korean_Pronunciation/빠르다.mp3
+Consonants	18	ㅆ	s͈	Phụ âm căng của ㅅ, phát âm s mạnh và sắc nét	https://luandai123.github.io/Korean_Pronunciation/ㅆ.mp3
+Consonants	18.1	쓰다	sseuda	Viết / Đắng / Đeo kính	https://luandai123.github.io/Korean_Pronunciation/쓰다.mp3
+Consonants	18.2	씨앗	ssiat	Hạt giống	https://luandai123.github.io/Korean_Pronunciation/씨앗.mp3
+Consonants	18.3	아저씨	ajeossi	Chú / Ông chú	https://luandai123.github.io/Korean_Pronunciation/아저씨.mp3
+Consonants	19	ㅉ	tʃ͈	Phụ âm căng của ㅈ, phát âm ch mạnh và không bật hơi	https://luandai123.github.io/Korean_Pronunciation/ㅉ.mp3
+Consonants	19.1	짜다	jjada	Mặn / Vắt (nước)	https://luandai123.github.io/Korean_Pronunciation/짜다.mp3
+Consonants	19.2	찌개	jjigae	Món canh / Lẩu đất	https://luandai123.github.io/Korean_Pronunciation/찌개.mp3
+Consonants	19.3	진짜	jinjja	Thật sự / Thật	https://luandai123.github.io/Korean_Pronunciation/진짜.mp3

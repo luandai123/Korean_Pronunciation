@@ -1,0 +1,29 @@
+No	Quy tắc	Đặc điểm / Cách biến âm	Ví dụ minh họa
+1	Nối âm	Nối phụ âm cuối (Patchim) của từ trước vào nguyên âm đứng đầu của từ sau.	"음악 → [으막]
+앉아 → [안자] "
+2	Nhũ âm hóa	• ㄴ + ㄹ hoặc ㄹ + ㄴ đều biến đổi thành ㄹ + ㄹ.	"신라 → [실라]
+칼날 → [칼랄]"
+3	Biến âm / Mũi âm hóa	"• [ㄱ, ㄷ, ㅂ] + ㄴ/ㅁ → [ㅇ, ㄴ, ㅁ] + ㄴ/ㅁ
+• [ㅁ, ㅇ] + ㄹ → [ㅁ, ㅇ] + ㄴ
+• [ㄱ, ㅂ] + ㄹ → [ㅇ, ㅁ] + ㄴ"	"한국말 → [한궁말]
+심리 → [심니]
+협력 → [혐녁]"
+4	Trọng âm hóa	"Phụ âm đi sau sẽ biến thành phụ âm căng (ㄲ, ㄸ, ㅃ, ㅆ, ㅉ) khi:
+• Theo sau Patchim [ㄱ, ㄷ, ㅂ]
+• Theo sau Patchim [ㄴ, ㅁ]
+• Theo sau Patchim ㄹ"	"식당 → [식땅]
+신고 → [신꼬]
+발전 → [발쩐]"
+5	Bật hơi hóa	Phụ âm thường kết hợp với ㅎ (đứng trước hoặc sau) sẽ biến thành phụ âm bật hơi tương ứng (ㅋ, ㅌ, ㅍ, ㅊ).	"많다 → [만타]
+먹히다 → [머키다]"
+6	Vòm âm hóa	"• ㄷ / ㅌ + 이 → 지 / 치
+• ㄷ / ㅌ + 히 → 치"	"같이 → [가치]
+닫히다 → [다치]"
+7	Giản lược 'ㅎ'	Patchim ㅎ gặp nguyên âm phía sau sẽ trở thành âm câm (không phát âm).	좋아요 → [조아요]
+8	Thêm 'ㄴ'	Từ ghép có từ trước kết thúc bằng phụ âm, từ sau bắt đầu bằng 이, 야, 여, 요, 유 thì thêm ㄴ thành 니, 냐, 녀, 뇨, 뉴.	"꽃잎 → [꼰닙]
+담요 → [담뇨]"
+9	Cách phát âm '의'	"• Đứng đầu tiên của từ: Đọc là 의 [ui]
+• Đứng từ vị trí thứ 2 trở đi: Đọc là 이 [i]
+• Khi mang ý nghĩa sở hữu ""của"": Đọc là 에 [e]"	"의사 → [의사]
+주의 → [주이]
+언니의 가방 → [언니에 가방]"
